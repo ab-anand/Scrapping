@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-url=raw_input('Enter the Snapdeal url: ')
+url=raw_input('Enter the Snapdeal Product url: ')
 
 headers = {'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36'}
  
@@ -51,6 +51,7 @@ table=soup.findAll('table',{"class":"product-spec"})
 len_table=len(table)
 specs={}
 print '\n'
+print "Specifications :--"
 for i in range(len_table):
     cols = table[i].find_all('td')
     for j in range(0,len(cols),2):

@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 url=raw_input('Enter the Snapdeal url: ')
 
-headers = {"Proxy-Authorization":"Basic aXBnXzIwMTUwMDM6YWJoaUA5OA==",'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36'}
+headers = {'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36'}
  
 source_code = requests.get(url, headers=headers, timeout=5)
 plain_text=source_code.text

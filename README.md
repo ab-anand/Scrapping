@@ -1,5 +1,4 @@
 # scrapping Snapdeal.
-a PYTHON code which uses beautiful soup and request library to fetch the data.
-On running this file it will ask for the snapdeal's product url and then it will give you the data like
-Product name, price, ratings, emi status, and all of it's specifications available.
+It contains Python program which uses beautiful soup and request library to fetch the data and another several scrappers using JS also.
+
                  <--------------------------------/--------------------------------->

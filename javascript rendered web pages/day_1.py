@@ -2,7 +2,7 @@ import json, os, requests
 from bs4 import BeautifulSoup
 from selenium import webdriver
 
-os.environ["HTTPS_PROXY"] = "http://ipg_2015003:abhi%4098@192.168.1.107:3128"
+
 headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0'}
  
 

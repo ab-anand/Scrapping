@@ -1,0 +1,251 @@
+rank,name,year,rating,info_link
+1,The Shawshank Redemption,1994,            9.2    ,/title/tt0111161/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_1
+2,The Godfather,1972,            9.2    ,/title/tt0068646/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_2
+3,The Godfather: Part II,1974,            9.0    ,/title/tt0071562/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_3
+4,The Dark Knight,2008,            9.0    ,/title/tt0468569/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_4
+5,12 Angry Men,1957,            8.9    ,/title/tt0050083/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_5
+6,Schindler's List,1993,            8.9    ,/title/tt0108052/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_6
+7,Pulp Fiction,1994,            8.9    ,/title/tt0110912/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_7
+8,The Lord of the Rings: The Return of the King,2003,            8.9    ,/title/tt0167260/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_8
+9,"Il buono, il brutto, il cattivo",1966,            8.8    ,/title/tt0060196/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_9
+10,Fight Club,1999,            8.8    ,/title/tt0137523/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_10
+11,The Lord of the Rings: The Fellowship of the Ring,2001,            8.8    ,/title/tt0120737/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_11
+12,Forrest Gump,1994,            8.7    ,/title/tt0109830/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_12
+13,Star Wars: Episode V - The Empire Strikes Back,1980,            8.7    ,/title/tt0080684/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_13
+14,Inception,2010,            8.7    ,/title/tt1375666/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_14
+15,The Lord of the Rings: The Two Towers,2002,            8.7    ,/title/tt0167261/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_15
+16,One Flew Over the Cuckoo's Nest,1975,            8.7    ,/title/tt0073486/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_16
+17,Goodfellas,1990,            8.7    ,/title/tt0099685/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_17
+18,The Matrix,1999,            8.7    ,/title/tt0133093/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_18
+19,Shichinin no samurai,1954,            8.6    ,/title/tt0047478/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_19
+20,Star Wars,1977,            8.6    ,/title/tt0076759/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_20
+21,Cidade de Deus,2002,            8.6    ,/title/tt0317248/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_21
+22,Se7en,1995,            8.6    ,/title/tt0114369/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_22
+23,The Silence of the Lambs,1991,            8.6    ,/title/tt0102926/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_23
+24,It's a Wonderful Life,1946,            8.6    ,/title/tt0038650/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_24
+25,La vita è bella,1997,            8.6    ,/title/tt0118799/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_25
+26,The Usual Suspects,1995,            8.6    ,/title/tt0114814/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_26
+27,Léon,1994,            8.5    ,/title/tt0110413/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_27
+28,Saving Private Ryan,1998,            8.5    ,/title/tt0120815/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_28
+29,Sen to Chihiro no kamikakushi,2001,            8.5    ,/title/tt0245429/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_29
+30,Once Upon a Time in the West,1968,            8.5    ,/title/tt0064116/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_30
+31,American History X,1998,            8.5    ,/title/tt0120586/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_31
+32,Interstellar,2014,            8.5    ,/title/tt0816692/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_32
+33,Psycho,1960,            8.5    ,/title/tt0054215/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_33
+34,The Green Mile,1999,            8.5    ,/title/tt0120689/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_34
+35,Casablanca,1942,            8.5    ,/title/tt0034583/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_35
+36,City Lights,1931,            8.5    ,/title/tt0021749/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_36
+37,The Intouchables,2011,            8.5    ,/title/tt1675434/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_37
+38,Modern Times,1936,            8.5    ,/title/tt0027977/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_38
+39,Raiders of the Lost Ark,1981,            8.5    ,/title/tt0082971/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_39
+40,The Pianist,2002,            8.5    ,/title/tt0253474/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_40
+41,The Departed,2006,            8.5    ,/title/tt0407887/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_41
+42,Rear Window,1954,            8.5    ,/title/tt0047396/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_42
+43,Terminator 2: Judgment Day,1991,            8.5    ,/title/tt0103064/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_43
+44,Back to the Future,1985,            8.5    ,/title/tt0088763/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_44
+45,Whiplash,2014,            8.5    ,/title/tt2582802/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_45
+46,Gladiator,2000,            8.5    ,/title/tt0172495/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_46
+47,The Prestige,2006,            8.5    ,/title/tt0482571/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_47
+48,The Lion King,1994,            8.5    ,/title/tt0110357/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_48
+49,Memento,2000,            8.5    ,/title/tt0209144/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_49
+50,Apocalypse Now,1979,            8.5    ,/title/tt0078788/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_50
+51,Alien,1979,            8.4    ,/title/tt0078748/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_51
+52,The Great Dictator,1940,            8.4    ,/title/tt0032553/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_52
+53,Sunset Blvd.,1950,            8.4    ,/title/tt0043014/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_53
+54,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,            8.4    ,/title/tt0057012/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_54
+55,Nuovo Cinema Paradiso,1988,            8.4    ,/title/tt0095765/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_55
+56,The Lives of Others,2006,            8.4    ,/title/tt0405094/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_56
+57,Hotaru no haka,1988,            8.4    ,/title/tt0095327/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_57
+58,Paths of Glory,1957,            8.4    ,/title/tt0050825/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_58
+59,Django Unchained,2012,            8.4    ,/title/tt1853728/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_59
+60,The Shining,1980,            8.4    ,/title/tt0081505/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_60
+61,WALL·E,2008,            8.4    ,/title/tt0910970/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_61
+62,American Beauty,1999,            8.4    ,/title/tt0169547/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_62
+63,The Dark Knight Rises,2012,            8.4    ,/title/tt1345836/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_63
+64,Mononoke-hime,1997,            8.4    ,/title/tt0119698/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_64
+65,Oldeuboi,2003,            8.4    ,/title/tt0364569/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_65
+66,Aliens,1986,            8.4    ,/title/tt0090605/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_66
+67,Witness for the Prosecution,1957,            8.4    ,/title/tt0051201/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_67
+68,Once Upon a Time in America,1984,            8.4    ,/title/tt0087843/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_68
+69,Das Boot,1981,            8.3    ,/title/tt0082096/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_69
+70,Citizen Kane,1941,            8.3    ,/title/tt0033467/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_70
+71,Dangal,2016,            8.3    ,/title/tt5074352/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_71
+72,Vertigo,1958,            8.3    ,/title/tt0052357/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_72
+73,North by Northwest,1959,            8.3    ,/title/tt0053125/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_73
+74,Star Wars: Episode VI - Return of the Jedi,1983,            8.3    ,/title/tt0086190/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_74
+75,Braveheart,1995,            8.3    ,/title/tt0112573/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_75
+76,Reservoir Dogs,1992,            8.3    ,/title/tt0105236/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_76
+77,M,1931,            8.3    ,/title/tt0022100/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_77
+78,Requiem for a Dream,2000,            8.3    ,/title/tt0180093/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_78
+79,Amélie,2001,            8.3    ,/title/tt0211915/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_79
+80,Taare Zameen Par,2007,            8.3    ,/title/tt0986264/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_80
+81,A Clockwork Orange,1971,            8.3    ,/title/tt0066921/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_81
+82,Lawrence of Arabia,1962,            8.3    ,/title/tt0056172/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_82
+83,Kimi no na wa.,2016,            8.3    ,/title/tt5311514/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_83
+84,Double Indemnity,1944,            8.3    ,/title/tt0036775/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_84
+85,Amadeus,1984,            8.3    ,/title/tt0086879/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_85
+86,Dunkirk,2017,            8.3    ,/title/tt5013056/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_86
+87,Taxi Driver,1976,            8.3    ,/title/tt0075314/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_87
+88,Eternal Sunshine of the Spotless Mind,2004,            8.3    ,/title/tt0338013/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_88
+89,To Kill a Mockingbird,1962,            8.3    ,/title/tt0056592/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_89
+90,Full Metal Jacket,1987,            8.3    ,/title/tt0093058/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_90
+91,2001: A Space Odyssey,1968,            8.3    ,/title/tt0062622/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_91
+92,Singin' in the Rain,1952,            8.3    ,/title/tt0045152/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_92
+93,Toy Story 3,2010,            8.3    ,/title/tt0435761/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_93
+94,The Sting,1973,            8.3    ,/title/tt0070735/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_94
+95,Toy Story,1995,            8.3    ,/title/tt0114709/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_95
+96,Ladri di biciclette,1948,            8.3    ,/title/tt0040522/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_96
+97,3 Idiots,2009,            8.3    ,/title/tt1187043/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_97
+98,Inglourious Basterds,2009,            8.3    ,/title/tt0361748/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_98
+99,The Kid,1921,            8.3    ,/title/tt0012349/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_99
+100,Snatch,2000,            8.3    ,/title/tt0208092/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_100
+101,Monty Python and the Holy Grail,1975,            8.3    ,/title/tt0071853/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_101
+102,Good Will Hunting,1997,            8.3    ,/title/tt0119217/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_102
+103,Per qualche dollaro in più,1965,            8.3    ,/title/tt0059578/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_103
+104,Jagten,2012,            8.3    ,/title/tt2106476/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_104
+105,L.A. Confidential,1997,            8.3    ,/title/tt0119488/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_105
+106,Scarface,1983,            8.3    ,/title/tt0086250/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_106
+107,The Apartment,1960,            8.2    ,/title/tt0053604/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_107
+108,Metropolis,1927,            8.2    ,/title/tt0017136/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_108
+109,Jodaeiye Nader az Simin,2011,            8.2    ,/title/tt1832382/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_109
+110,Rashômon,1950,            8.2    ,/title/tt0042876/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_110
+111,Indiana Jones and the Last Crusade,1989,            8.2    ,/title/tt0097576/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_111
+112,Babam ve Oglum,2005,            8.2    ,/title/tt0476735/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_112
+113,Yôjinbô,1961,            8.2    ,/title/tt0055630/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_113
+114,All About Eve,1950,            8.2    ,/title/tt0042192/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_114
+115,Up,2009,            8.2    ,/title/tt1049413/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_115
+116,Batman Begins,2005,            8.2    ,/title/tt0372784/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_116
+117,Some Like It Hot,1959,            8.2    ,/title/tt0053291/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_117
+118,The Treasure of the Sierra Madre,1948,            8.2    ,/title/tt0040897/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_118
+119,Unforgiven,1992,            8.2    ,/title/tt0105695/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_119
+120,Der Untergang,2004,            8.2    ,/title/tt0363163/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_120
+121,Die Hard,1988,            8.2    ,/title/tt0095016/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_121
+122,Raging Bull,1980,            8.2    ,/title/tt0081398/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_122
+123,Heat,1995,            8.2    ,/title/tt0113277/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_123
+124,The Third Man,1949,            8.2    ,/title/tt0041959/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_124
+125,Bacheha-Ye aseman,1997,            8.2    ,/title/tt0118849/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_125
+126,The Great Escape,1963,            8.2    ,/title/tt0057115/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_126
+127,Chinatown,1974,            8.2    ,/title/tt0071315/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_127
+128,Ikiru,1952,            8.2    ,/title/tt0044741/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_128
+129,Pan's Labyrinth,2006,            8.2    ,/title/tt0457430/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_129
+130,Tonari no Totoro,1988,            8.2    ,/title/tt0096283/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_130
+131,Ran,1985,            8.2    ,/title/tt0089881/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_131
+132,The Gold Rush,1925,            8.2    ,/title/tt0015864/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_132
+133,Incendies,2010,            8.2    ,/title/tt1255953/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_133
+134,Inside Out,2015,            8.2    ,/title/tt2096673/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_134
+135,El secreto de sus ojos,2009,            8.2    ,/title/tt1305806/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_135
+136,Judgment at Nuremberg,1961,            8.2    ,/title/tt0055031/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_136
+137,On the Waterfront,1954,            8.2    ,/title/tt0047296/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_137
+138,The Bridge on the River Kwai,1957,            8.2    ,/title/tt0050212/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_138
+139,Hauru no ugoku shiro,2004,            8.2    ,/title/tt0347149/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_139
+140,Room,2015,            8.2    ,/title/tt3170832/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_140
+141,Blade Runner,1982,            8.2    ,/title/tt0083658/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_141
+142,Det sjunde inseglet,1957,            8.2    ,/title/tt0050976/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_142
+143,"Lock, Stock and Two Smoking Barrels",1998,            8.2    ,/title/tt0120735/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_143
+144,Mr. Smith Goes to Washington,1939,            8.2    ,/title/tt0031679/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_144
+145,Casino,1995,            8.2    ,/title/tt0112641/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_145
+146,A Beautiful Mind,2001,            8.2    ,/title/tt0268978/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_146
+147,The Elephant Man,1980,            8.1    ,/title/tt0080678/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_147
+148,Smultronstället,1957,            8.1    ,/title/tt0050986/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_148
+149,V for Vendetta,2005,            8.1    ,/title/tt0434409/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_149
+150,The Wolf of Wall Street,2013,            8.1    ,/title/tt0993846/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_150
+151,The General,1926,            8.1    ,/title/tt0017925/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_151
+152,Warrior,2011,            8.1    ,/title/tt1291584/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_152
+153,Trainspotting,1996,            8.1    ,/title/tt0117951/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_153
+154,Dial M for Murder,1954,            8.1    ,/title/tt0046912/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_154
+155,Andrei Rublev,1966,            8.1    ,/title/tt0060107/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_155
+156,Gran Torino,2008,            8.1    ,/title/tt1205489/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_156
+157,Sunrise: A Song of Two Humans,1927,            8.1    ,/title/tt0018455/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_157
+158,Gone with the Wind,1939,            8.1    ,/title/tt0031381/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_158
+159,The Deer Hunter,1978,            8.1    ,/title/tt0077416/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_159
+160,Fargo,1996,            8.1    ,/title/tt0116282/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_160
+161,The Sixth Sense,1999,            8.1    ,/title/tt0167404/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_161
+162,Eskiya,1996,            8.1    ,/title/tt0116231/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_162
+163,The Thing,1982,            8.1    ,/title/tt0084787/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_163
+164,No Country for Old Men,2007,            8.1    ,/title/tt0477348/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_164
+165,The Big Lebowski,1998,            8.1    ,/title/tt0118715/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_165
+166,La La Land,2016,            8.1    ,/title/tt3783958/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_166
+167,Finding Nemo,2003,            8.1    ,/title/tt0266543/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_167
+168,Tôkyô monogatari,1953,            8.1    ,/title/tt0046438/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_168
+169,Hacksaw Ridge,2016,            8.1    ,/title/tt2119532/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_169
+170,Cool Hand Luke,1967,            8.1    ,/title/tt0061512/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_170
+171,There Will Be Blood,2007,            8.1    ,/title/tt0469494/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_171
+172,Rebecca,1940,            8.1    ,/title/tt0032976/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_172
+173,Idi i smotri,1985,            8.1    ,/title/tt0091251/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_173
+174,Rang De Basanti,2006,            8.1    ,/title/tt0405508/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_174
+175,Kill Bill: Vol. 1,2003,            8.1    ,/title/tt0266697/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_175
+176,La passion de Jeanne d'Arc,1928,            8.1    ,/title/tt0019254/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_176
+177,How to Train Your Dragon,2010,            8.1    ,/title/tt0892769/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_177
+178,Logan,2017,            8.1    ,/title/tt3315342/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_178
+179,Mary and Max,2009,            8.1    ,/title/tt0978762/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_179
+180,Gone Girl,2014,            8.1    ,/title/tt2267998/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_180
+181,Into the Wild,2007,            8.1    ,/title/tt0758758/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_181
+182,Shutter Island,2010,            8.1    ,/title/tt1130884/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_182
+183,It Happened One Night,1934,            8.1    ,/title/tt0025316/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_183
+184,Life of Brian,1979,            8.1    ,/title/tt0079470/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_184
+185,A Wednesday,2008,            8.1    ,/title/tt1280558/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_185
+186,Relatos salvajes,2014,            8.1    ,/title/tt3011894/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_186
+187,Platoon,1986,            8.1    ,/title/tt0091763/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_187
+188,Hotel Rwanda,2004,            8.1    ,/title/tt0395169/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_188
+189,Le salaire de la peur,1953,            8.1    ,/title/tt0046268/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_189
+190,Network,1976,            8.1    ,/title/tt0074958/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_190
+191,Rush,2013,            8.1    ,/title/tt1979320/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_191
+192,In the Name of the Father,1993,            8.1    ,/title/tt0107207/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_192
+193,Stand by Me,1986,            8.1    ,/title/tt0092005/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_193
+194,Persona,1966,            8.1    ,/title/tt0060827/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_194
+195,Ben-Hur,1959,            8.1    ,/title/tt0052618/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_195
+196,The Grand Budapest Hotel,2014,            8.1    ,/title/tt2278388/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_196
+197,Les quatre cents coups,1959,            8.1    ,/title/tt0053198/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_197
+198,12 Years a Slave,2013,            8.1    ,/title/tt2024544/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_198
+199,Salinui chueok,2003,            8.1    ,/title/tt0353969/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_199
+200,Mad Max: Fury Road,2015,            8.1    ,/title/tt1392190/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_200
+201,Spotlight,2015,            8.1    ,/title/tt1895587/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_201
+202,Million Dollar Baby,2004,            8.1    ,/title/tt0405159/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_202
+203,Jurassic Park,1993,            8.1    ,/title/tt0107290/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_203
+204,Butch Cassidy and the Sundance Kid,1969,            8.1    ,/title/tt0064115/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_204
+205,Stalker,1979,            8.1    ,/title/tt0079944/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_205
+206,Amores perros,2000,            8.1    ,/title/tt0245712/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_206
+207,The Truman Show,1998,            8.1    ,/title/tt0120382/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_207
+208,The Maltese Falcon,1941,            8.1    ,/title/tt0033870/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_208
+209,Hachi: A Dog's Tale,2009,            8.1    ,/title/tt1028532/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_209
+210,Kaze no tani no Naushika,1984,            8.1    ,/title/tt0087544/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_210
+211,The Princess Bride,1987,            8.1    ,/title/tt0093779/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_211
+212,Paper Moon,1973,            8.1    ,/title/tt0070510/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_212
+213,Before Sunrise,1995,            8.1    ,/title/tt0112471/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_213
+214,Le notti di Cabiria,1957,            8.1    ,/title/tt0050783/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_214
+215,Prisoners,2013,            8.0    ,/title/tt1392214/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_215
+216,Harry Potter and the Deathly Hallows: Part 2,2011,            8.0    ,/title/tt1201607/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_216
+217,Munna Bhai M.B.B.S.,2003,            8.0    ,/title/tt0374887/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_217
+218,The Grapes of Wrath,1940,            8.0    ,/title/tt0032551/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_218
+219,Rocky,1976,            8.0    ,/title/tt0075148/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_219
+220,Catch Me If You Can,2002,            8.0    ,/title/tt0264464/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_220
+221,Touch of Evil,1958,            8.0    ,/title/tt0052311/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_221
+222,Les diaboliques,1955,            8.0    ,/title/tt0046911/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_222
+223,Gandhi,1982,            8.0    ,/title/tt0083987/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_223
+224,Star Wars: Episode VII - The Force Awakens,2015,            8.0    ,/title/tt2488496/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_224
+225,Donnie Darko,2001,            8.0    ,/title/tt0246578/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_225
+226,"Monsters, Inc.",2001,            8.0    ,/title/tt0198781/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_226
+227,Annie Hall,1977,            8.0    ,/title/tt0075686/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_227
+228,The Terminator,1984,            8.0    ,/title/tt0088247/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_228
+229,Barry Lyndon,1975,            8.0    ,/title/tt0072684/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_229
+230,The Bourne Ultimatum,2007,            8.0    ,/title/tt0440963/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_230
+231,The Wizard of Oz,1939,            8.0    ,/title/tt0032138/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_231
+232,Groundhog Day,1993,            8.0    ,/title/tt0107048/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_232
+233,La haine,1995,            8.0    ,/title/tt0113247/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_233
+234,8½,1963,            8.0    ,/title/tt0056801/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_234
+235,Sholay,1975,            8.0    ,/title/tt0073707/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_235
+236,Jaws,1975,            8.0    ,/title/tt0073195/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_236
+237,Twelve Monkeys,1995,            8.0    ,/title/tt0114746/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_237
+238,The Best Years of Our Lives,1946,            8.0    ,/title/tt0036868/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_238
+239,Mou gaan dou,2002,            8.0    ,/title/tt0338564/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_239
+240,"Paris, Texas",1984,            8.0    ,/title/tt0087884/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_240
+241,The Help,2011,            8.0    ,/title/tt1454029/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_241
+242,Faa yeung nin wa,2000,            8.0    ,/title/tt0118694/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_242
+243,Beauty and the Beast,1991,            8.0    ,/title/tt0101414/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_243
+244,La battaglia di Algeri,1966,            8.0    ,/title/tt0058946/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_244
+245,Ah-ga-ssi,2016,            8.0    ,/title/tt4016934/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_245
+246,Pirates of the Caribbean: The Curse of the Black Pearl,2003,            8.0    ,/title/tt0325980/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_246
+247,Dog Day Afternoon,1975,            8.0    ,/title/tt0072890/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_247
+248,Gangs of Wasseypur,2012,            8.0    ,/title/tt1954470/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_248
+249,PK,2014,            8.0    ,/title/tt2338151/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_249
+250,Tenkû no shiro Rapyuta,1986,            8.0    ,/title/tt0092067/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2398042102&pf_rd_r=0P2KJ20GNWD6CTTKZY3S&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_250

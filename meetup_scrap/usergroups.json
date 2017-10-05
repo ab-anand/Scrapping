@@ -1,0 +1,556 @@
+[
+  {
+    "name": "Bartlesville User Group",
+    "nameInMeetupURL": "Bartlesville-User-Group",
+    "city": "Bartlesville",
+    "area": "Tulsa",
+    "regularEvents": [
+      {
+        "name": "",
+        "week": 5,
+        "weekDay": 3,
+        "hour": 11,
+        "minute": 30
+      }
+    ],
+    "type": "sponsored"
+  },
+  {
+    "name": "Code for OKC",
+    "nameInMeetupURL": "Code-for-OKC",
+    "city": "OKC",
+    "regularEvents": [
+      {
+        "name": "",
+        "week": 4,
+        "weekDay": 1,
+        "hour": 18,
+        "minute": 0
+      },
+      {
+        "name": "Virtual",
+        "week": 2,
+        "weekDay": 3,
+        "hour": 20,
+        "minute": 0
+      }
+    ],
+    "type": "sponsored"
+  },
+  {
+    "name": "Code for Tulsa",
+    "nameInMeetupURL": "Code-for-Tulsa",
+    "city": "Tulsa",
+    "regularEvents": [
+      {
+        "name": "",
+        "week": 3,
+        "weekDay": 1,
+        "hour": 18,
+        "minute": 0
+      },
+      {
+        "name": "Coworking",
+        "week": 4,
+        "weekDay": 5,
+        "hour": 12,
+        "minute": 0
+      }
+    ],
+    "type": "sponsored"
+  },
+  {
+    "name": "Free Code Camp OKC",
+    "nameInMeetupURL": "FreeCodeCampOKC",
+    "city": "OKC",
+    "area": "OKC",
+    "regularEvents": [
+      {
+        "name": "",
+        "week": 1,
+        "weekDay": 0,
+        "hour": 14,
+        "minute": 0
+      },
+      {
+        "name": "",
+        "week": 2,
+        "weekDay": 0,
+        "hour": 14,
+        "minute": 0
+      },
+      {
+        "name": "",
+        "week": 3,
+        "weekDay": 0,
+        "hour": 14,
+        "minute": 0
+      },
+      {
+        "name": "",
+        "week": 4,
+        "weekDay": 0,
+        "hour": 13,
+        "minute": 0
+      }
+    ],
+    "type": "sponsored"
+  },
+  {
+    "name": "Muskogee Web Dev and Design",
+    "nameInMeetupURL": "Muskogee-Web-Dev-Design",
+    "city": "Muskogee",
+    "area": "Tulsa",
+    "regularEvents": [
+      {
+        "name": "",
+        "week": 5,
+        "weekDay": 1,
+        "hour": 18,
+        "minute": 0
+      }
+    ],
+    "type": "sponsored"
+  },
+  {
+    "name": "Nerdy Girls codeClub",
+    "nameInMeetupURL": "",
+    "website": "https://www.meetup.com/NerdyGirlsOKC/",
+    "city": "OKC",
+    "regularEvents": [
+      {
+        "name": "",
+        "week": 4,
+        "weekDay": 0,
+        "hour": 14,
+        "minute": 0
+      }
+    ],
+    "rescheduledEvents": [
+      "2017-03-26T15:00:00.000-0500",
+      "2017-05-21T14:00:00.000-0500",
+      "2017-11-19T14:00:00.000-0600",
+      "2017-12-17T14:00:00.000-0600"
+    ],
+    "type": "sponsored"
+  },
+  {
+    "name": "OK Game Devs",
+    "nameInMeetupURL": "Oklahoma-Game-Developers",
+    "city": "OKC",
+    "regularEvents": [
+      {
+        "name": "",
+        "week": 1,
+        "weekDay": 4,
+        "hour": 19,
+        "minute": 0
+      }
+    ],
+    "type": "sponsored"
+  },
+  {
+    "name": "OKC Big Data Science",
+    "nameInMeetupURL": "Big-Data-in-Oklahoma-City",
+    "city": "OKC",
+    "regularEvents": [
+      {
+        "name": "",
+        "week": 1,
+        "weekDay": 4,
+        "hour": 11,
+        "minute": 30
+      }
+    ],
+    "type": "sponsored"
+  },
+  {
+    "name": "OKC FP",
+    "nameInMeetupURL": "OKC-FP",
+    "city": "OKC",
+    "regularEvents": [
+      {
+        "name": "",
+        "week": 5,
+        "weekDay": 2,
+        "hour": 11,
+        "minute": 30
+      }
+    ],
+    "type": "sponsored"
+  },
+  {
+    "name": "OKC.js",
+    "nameInMeetupURL": "OKC-JS",
+    "city": "OKC",
+    "regularEvents": [
+      {
+        "name": "",
+        "week": 3,
+        "weekDay": 2,
+        "hour": 11,
+        "minute": 30
+      }
+    ],
+    "type": "sponsored"
+  },
+  {
+    "name": "OKC JUG",
+    "nameInMeetupURL": "okcjug",
+    "city": "OKC",
+    "regularEvents": [
+      {
+        "name": "",
+        "week": 2,
+        "weekDay": 2,
+        "hour": 11,
+        "minute": 30
+      }
+    ],
+    "type": "sponsored"
+  },
+  {
+    "name": "OKC LUGnuts",
+    "nameInMeetupURL": "OKC-LUGnuts",
+    "city": "OKC",
+    "regularEvents": [
+      {
+        "name": "",
+        "week": 2,
+        "weekDay": 5,
+        "hour": 19,
+        "minute": 0
+      }
+    ],
+    "type": "sponsored"
+  },
+  {
+    "name": "OKC OSDB",
+    "nameInMeetupURL": "Oklahoma-City-Open-Source-Database-Meetup",
+    "city": "OKC",
+    "regularEvents": [
+      {
+        "name": "",
+        "week": 4,
+        "weekDay": 4,
+        "hour": 19,
+        "minute": 0
+      }
+    ],
+    "type": "sponsored"
+  },
+  {
+    "name": "OKC OSH",
+    "nameInMeetupURL": "OKC-OSH",
+    "city": "OKC",
+    "regularEvents": [
+      {
+        "name": "",
+        "week": 2,
+        "weekDay": 6,
+        "hour": 14,
+        "minute": 0
+      }
+    ],
+    "type": "sponsored"
+  },
+  {
+    "name": "OKC PHP",
+    "nameInMeetupURL": "OKCPHP",
+    "city": "OKC",
+    "regularEvents": [
+      {
+        "name": "OKC",
+        "week": 2,
+        "weekDay": 4,
+        "hour": 18,
+        "minute": 30
+      }
+    ],
+    "type": "sponsored"
+  },
+  {
+    "name": "OKC Python",
+    "nameInMeetupURL": "Oklahoma-City-Python-Users-Group",
+    "city": "OKC",
+    "regularEvents": [
+      {
+        "name": "",
+        "week": 2,
+        "weekDay": 3,
+        "hour": 11,
+        "minute": 30
+      }
+    ],
+    "type": "sponsored"
+  },
+  {
+    "name": "OKC Ruby",
+    "nameInMeetupURL": "OKC-Ruby",
+    "city": "OKC",
+    "regularEvents": [
+      {
+        "name": "",
+        "week": 2,
+        "weekDay": 4,
+        "hour": 11,
+        "minute": 30
+      }
+    ],
+    "type": "sponsored"
+  },
+  {
+    "name": "OKC#",
+    "nameInMeetupURL": "OKC-Sharp",
+    "city": "OKC",
+    "regularEvents": [
+      {
+        "name": "",
+        "week": 1,
+        "weekDay": 1,
+        "hour": 11,
+        "minute": 30
+      }
+    ],
+    "type": "sponsored"
+  },
+  {
+    "name": "OKC SQL",
+    "nameInMeetupURL": "OKCSQL",
+    "city": "OKC",
+    "regularEvents": [
+      {
+        "name": "",
+        "week": 3,
+        "weekDay": 1,
+        "hour": 18,
+        "minute": 0
+      }
+    ],
+    "type": "sponsored"
+  },
+  {
+    "name": "Refresh OKC",
+    "nameInMeetupURL": "Refresh-OKC",
+    "city": "OKC",
+    "regularEvents": [
+      {
+        "name": "",
+        "week": 5,
+        "weekDay": 3,
+        "hour": 11,
+        "minute": 30
+      }
+    ],
+    "type": "sponsored"
+  },
+  {
+    "name": "Techlahoma",
+    "nameInMeetupURL": "Techlahoma-Foundation",
+    "city": "OKC",
+    "regularEvents": [
+      {
+        "name": "Hack Night",
+        "week": 1,
+        "weekDay": 2,
+        "hour": 18,
+        "minute": 0
+      }
+    ],
+    "type": "sponsored"
+  },
+  {
+    "name": "Tulsa Agile Practitioners",
+    "nameInMeetupURL": "TulsaAgilePractitioners",
+    "city": "Tulsa",
+    "regularEvents": [
+      {
+        "name": "Lean Coffee for Lunch",
+        "week": 2,
+        "weekDay": 2,
+        "hour": 11,
+        "minute": 30
+      },
+      {
+        "name": "This Month on TAP",
+        "week": 2,
+        "weekDay": 4,
+        "hour": 18,
+        "minute": 0
+      }
+    ],
+    "type": "sponsored"
+  },
+  {
+    "name": "Tulsa Data Science",
+    "nameInMeetupURL": "Tulsa-Data-Science-Meetup",
+    "city": "Tulsa",
+    "regularEvents": [
+      {
+        "name": "",
+        "week": 5,
+        "weekDay": 3,
+        "hour": 18,
+        "minute": 0
+      }
+    ],
+    "type": "sponsored"
+  },
+  {
+    "name": "Tulsa Game Devs",
+    "nameInMeetupURL": "Tulsa-Game-Developers",
+    "city": "Tulsa",
+    "regularEvents": [
+      {
+        "name": "",
+        "week": 3,
+        "weekDay": 4,
+        "hour": 18,
+        "minute": 0
+      }
+    ],
+    "type": "sponsored"
+  },
+  {
+    "name": "Tulsa Java",
+    "nameInMeetupURL": "Tulsa-Java-Developers-Group",
+    "city": "Tulsa",
+    "regularEvents": [
+      {
+        "name": "",
+        "week": 2,
+        "weekDay": 3,
+        "hour": 18,
+        "minute": 0
+      }
+    ],
+    "type": "sponsored"
+  },
+  {
+    "name": "Tulsa Lambda Lunch",
+    "nameInMeetupURL": "Tulsa-Lambda-Lunch",
+    "city": "Tulsa",
+    "regularEvents": [
+      {
+        "name": "",
+        "week": 5,
+        "weekDay": 2,
+        "hour": 11,
+        "minute": 30
+      }
+    ],
+    "type": "sponsored"
+  },
+  {
+    "name": "Tulsa OSH",
+    "nameInMeetupURL": "Tulsa-Open-Source-Hardware-Meetup",
+    "city": "Tulsa",
+    "regularEvents": [
+      {
+        "name": "",
+        "week": 3,
+        "weekDay": 3,
+        "hour": 18,
+        "minute": 0
+      }
+    ],
+    "type": "sponsored"
+  },
+  {
+    "name": "Tulsa PHP",
+    "nameInMeetupURL": "Tulsa-PHP",
+    "city": "Tulsa",
+    "regularEvents": [
+      {
+        "name": "",
+        "week": 3,
+        "weekDay": 1,
+        "hour": 18,
+        "minute": 0
+      }
+    ],
+    "type": "sponsored"
+  },
+  {
+    "name": "Tulsa Ruby",
+    "nameInMeetupURL": "tulsarb",
+    "city": "Tulsa",
+    "regularEvents": [
+      {
+        "name": "",
+        "week": 3,
+        "weekDay": 1,
+        "hour": 18,
+        "minute": 0
+      }
+    ],
+    "type": "sponsored"
+  },
+  {
+    "name": "Tulsa Web Devs",
+    "nameInMeetupURL": "Tulsa-Web-Devs",
+    "city": "Tulsa",
+    "regularEvents": [
+      {
+        "name": "",
+        "week": 3,
+        "weekDay": 1,
+        "hour": 18,
+        "minute": 0
+      },
+      {
+        "name": "Hack Night",
+        "week": 1,
+        "weekDay": 2,
+        "hour": 18,
+        "minute": 0
+      }
+    ],
+    "type": "sponsored"
+  },
+  {
+    "name": "OKC SharePoint",
+    "nameInMeetupURL": "",
+    "city": "OKC",
+    "regularEvents": [
+      {
+        "name": "",
+        "week": 1,
+        "weekDay": 3,
+        "hour": 11,
+        "minute": 15
+      }
+    ],
+    "type": "affiliated"
+  },
+  {
+    "name": "OKC Tableau",
+    "nameInMeetupURL": "",
+    "city": "OKC",
+    "regularEvents": [
+      {
+        "name": "",
+        "week": 3,
+        "weekDay": 3,
+        "hour": 12,
+        "minute": 0
+      }
+    ],
+    "type": "affiliated"
+  },
+  {
+    "name": "OKC WordPress",
+    "nameInMeetupURL": "OKC-WordPress-Users-Group",
+    "city": "OKC",
+    "regularEvents": [
+      {
+        "name": "",
+        "week": 5,
+        "weekDay": 1,
+        "hour": 19,
+        "minute": 0
+      }
+    ],
+    "type": "affiliated"
+  }
+]

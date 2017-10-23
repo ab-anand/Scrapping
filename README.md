@@ -1,4 +1,7 @@
-# Let's do some scrapping 
-It contains a Python program which uses beautiful soup and request library to fetch the data and another several scrappers using JavaScript also.
+# What is scrapping?
+Data scraping is a technique in which a computer program extracts data from human-readable output coming from another program.
 
-                 <--------------------------------/--------------------------------->
+# Note
+This repository contains programs that performs web scrapping. The programs are in JavaScript and Python.
+
+                       <--------------------------------/--------------------------------->

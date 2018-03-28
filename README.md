@@ -7,3 +7,4 @@ This repository contains programs that performs web scrapping. The programs are 
 * `epl_team.py` - epl team scrapper
 * `hacker_news.py` - hackernews scrapper
 * `snapdeal.py` - scrapping snapdeal
+* `scrape_flipkart.py` - collect data from flipkart

@@ -12,3 +12,4 @@ This repository contains programs that performs web scrapping. The programs are 
 * `webcrawler_g2.py` - a webcrawler for the review forum G2Crowd.com
 * `hacker_news.py` - hackernews scrapper
 * `snapdeal_spider.js` - scrapping snapdeal using Cheerio.js
+* `scrape_myanimelist` - scrape details about anime(rank, episodes, etc.,)

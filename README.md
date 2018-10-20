@@ -13,3 +13,4 @@ This repository contains programs that performs web scrapping. The programs are 
 * `hacker_news.py` - hackernews scrapper
 * `snapdeal_spider.js` - scrapping snapdeal using Cheerio.js
 * `scrape_myanimelist` - scrape details about anime(rank, episodes, etc.,)
+* `21cinema.py` - scrape theater showtimes 21cinema.com

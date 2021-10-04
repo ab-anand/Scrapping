@@ -1,11 +1,12 @@
 #!/usr/bin/python3
+#library needed
 import os
 import csv
 import pandas as pd
 
 import requests
 from bs4 import BeautifulSoup
-
+#Body
 url='http://www.transindiatravels.com/india/best-places-to-visit-in-india/'
 headers = {'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36'}
  
